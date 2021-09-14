@@ -560,7 +560,7 @@ github.com/gorilla/mux
 # github.com/gorilla/websocket v1.4.2
 ## explicit
 github.com/gorilla/websocket
-# github.com/grafana/dskit v0.0.0-20210910120820-a8c4a2c78843
+# github.com/grafana/dskit v0.0.0-20210913141808-a9a7329a2224
 ## explicit
 github.com/grafana/dskit/backoff
 github.com/grafana/dskit/closer
